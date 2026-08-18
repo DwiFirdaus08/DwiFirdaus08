@@ -23,7 +23,7 @@ Selamat datang di GitHub saya! Saya adalah seorang mahasiswa tingkat akhir yang 
 * **IT Staff Intern** @ DTI ULBI (Agt 2024 - Sep 2024)
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [linkedin.com/in/dwipuspafirdaus](https://www.linkedin.com/in/dwipuspafirdaus)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/dwi-puspa-firdaus-69b663292/)
 - 📧 **Email:** dwi.puspafirdaus@gmail.com
 
 ---
