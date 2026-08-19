@@ -13,7 +13,7 @@ Selamat datang di GitHub saya! Saya adalah seorang mahasiswa tingkat akhir yang 
 ### 🚀 Highlighted Projects
 * **["Kawai" Personal WhatsApp Assistant](https://github.com/DwiFirdaus08/kawai-backend)**
   Aplikasi *backend* asisten virtual menggunakan Golang. Terintegrasi dengan WhatsApp API & Google Drive API, dilengkapi fitur *scheduler* (cron job) untuk *reminder* dan pencadangan log otomatis.
-* **[Autonomous Academic Assistant (Multi-Agent System) - Data Mining Agent](#)** *(https://github.com/Dw)iFirdaus08/agent-data-mining*
+* **[Autonomous Academic Assistant (Multi-Agent System) - Data Mining Agent](#)** *(https://github.com/DwiFirdaus08/agent-data-mining)*
   Membangun *microservice* data mining menggunakan Python (FastAPI) & Scikit-Learn sebagai bagian dari sistem *Multi-Agent (MAS)*. Dikemas dengan Docker dan di-*deploy* ke Railway.
 * **[Backend API (FAQ Module) - PT Pos Indonesia](https://github.com/posind/pibackend)**
   Pengembangan logika *backend* Golang untuk modul FAQ dan pencarian kata kunci aturan logistik internasional pada sistem *Chatbot* Pos Indonesia selama program Kampus Merdeka.
